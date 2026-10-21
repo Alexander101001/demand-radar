@@ -8,5 +8,6 @@ Last update: **2026-10-21**
 | # | Service | Mentions |
 |---|---------|----------|
 | 1 | Excel | 2 |
+| 2 | Excel | 2 |
 
 → Full history in [`reports/`](reports/)
