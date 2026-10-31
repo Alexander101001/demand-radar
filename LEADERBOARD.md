@@ -3,7 +3,7 @@
 Mentions of freelance services across HN + Reddit + Google Trends,
 accumulated automatically 4×/day by GitHub Actions.
 
-Last update: **2026-10-30**
+Last update: **2026-10-31**
 
 | # | Service | Mentions |
 |---|---------|----------|
