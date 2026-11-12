@@ -3,15 +3,15 @@
 Mentions of freelance services across HN + Reddit + Google Trends,
 accumulated automatically 4×/day by GitHub Actions.
 
-Last update: **2026-11-11**
+Last update: **2026-11-12**
 
 | # | Service | Mentions |
 |---|---------|----------|
-| 1 | Python | 81 |
-| 2 | Website | 48 |
-| 3 | Automation | 16 |
-| 4 | Scraping | 14 |
-| 5 | Dashboard | 14 |
+| 1 | Python | 87 |
+| 2 | Website | 51 |
+| 3 | Automation | 17 |
+| 4 | Scraping | 15 |
+| 5 | Dashboard | 15 |
 | 6 | Excel | 4 |
 
 → Full history in [`reports/`](reports/)
