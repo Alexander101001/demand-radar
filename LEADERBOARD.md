@@ -7,11 +7,11 @@ Last update: **2026-11-24**
 
 | # | Service | Mentions |
 |---|---------|----------|
-| 1 | Python | 253 |
-| 2 | Website | 126 |
-| 3 | Automation | 42 |
-| 4 | Scraping | 40 |
-| 5 | Dashboard | 40 |
+| 1 | Python | 260 |
+| 2 | Website | 129 |
+| 3 | Automation | 43 |
+| 4 | Scraping | 41 |
+| 5 | Dashboard | 41 |
 | 6 | Excel | 4 |
 
 → Full history in [`reports/`](reports/)
